@@ -4,7 +4,7 @@ Smart Houses and Internet of Things (IoT) are two present tendencies in our days
 
 Paper [here](paper.pdf)
 # Cite
-
+```
 @inproceedings{galvao2017anomaly,
   title={Anomaly detection in smart houses: Monitoring elderly daily behavior for fall detecting},
   author={Galv{\~a}o, Yves M and Albuquerque, Vinicius A and Fernandes, Bruno JT and Valen{\c{c}}a, M{\^e}user JS},
@@ -13,3 +13,4 @@ Paper [here](paper.pdf)
   year={2017},
   organization={IEEE}
 }
+```
